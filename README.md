@@ -9,4 +9,4 @@
 ## Some Screenshots of The Projects
 
 <img src = "Project_image_1.jpg"><br><br>
-<img src = "Project_image_1.jpg"><br><br>
+<img src = "Project_image_2.jpg"><br><br>
