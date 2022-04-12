@@ -1,4 +1,5 @@
 # Text To Binary Converter
+<hr>
 ## This is project that converts text to Binary
 
  In this project I have use text boxes to insert text and show output in binary which can be easily copied.
